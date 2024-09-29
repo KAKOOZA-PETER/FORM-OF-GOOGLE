@@ -1,0 +1,80 @@
+body{
+    background: #e1eaeb;
+    
+}
+.banner{
+    width:fixed;
+    display: flex;
+    font-weight: bold;
+    width:67%;
+    box-sizing: border-box ;
+    margin-bottom:2%;
+    margin-left:15%;
+    background:white;
+    margin-top: 5%;
+    padding-bottom:3%;
+    border-radius:30px;
+    height: 400px;
+    padding-inline:35px;
+}
+h1{
+    margin-bottom: 5px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight:400;
+    font-size:xx-large large;
+    margin-bottom: 2px;
+}
+li{
+    padding: 8px;
+    display: inline;
+font-family:  system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.terms p{
+    margin-left:210px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+}
+    input{
+        display: block;
+        width: 158%;
+        font-size:medium;
+        border-style: ridge;
+        border-radius:5px;
+        margin-bottom:3%;
+        padding: 18px;
+        margin-left: 25%;
+    }
+    a{
+    text-decoration: none;
+    font-size:small;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left:147%;
+    background: #2c44e1;
+    border-radius:80px;
+    padding:13px;
+    padding-inline: 28px;
+    }
+    img{
+        width: 55px;
+        height:55px;
+        padding-top:20px;
+        
+    }
+    form{
+        padding-left:80px;
+        padding-top:100px ;
+        margin-top: 20px;
+    }
+    .google p{
+        font-weight: lighter;
+        font-weight: 400;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .terms{
+    display: flex;
+    gap:458px;
+    }
+    select{
+        border: none;
+        background: #e1eaeb;
+    }    
